@@ -1,1 +1,1 @@
-This is to satisfy the "Security Policy" rule.
+This is to satisfy the Security Policy rule.
